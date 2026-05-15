@@ -1,7 +1,7 @@
 # Laboratory Work 5: Comparative Analysis of Pre-trained CNN Models for Custom Image Classification
 
 ## 🔗 Project Links
-- **Google Colab Notebook**: [https://colab.research.google.com/drive/1ry3YFRG_Ra7izCzlKu4IkCYQkhB2W3co?usp=sharing]
+- **Google Colab Notebook**: [Open in Colab](https://colab.research.google.com/drive/1ry3YFRG_Ra7izCzlKu4IkCYQkhB2W3co?usp=sharing)
 
 ## Project Objectives
 1. Use three (3) pre-trained CNN models (VGG16, ResNet50, MobileNetV2).
